@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - main
-      - embed
 
 jobs:
   embed-code:
@@ -19,6 +18,6 @@ jobs:
       - uses: tokusumi/markdown-embed-code@main
         with:
           markdown: "README.md"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.EMBED }}
           message: "synchronizing Readme"
           silent: true
