@@ -18,7 +18,7 @@ So the first step will be doing the following exercises from these platforms:
 - [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. FAANGs use the platform to interview candidates.
 
-## Preparation Kits
+## 1. Coding Problems
 
 
 |    Platform    |           Track            |     Time     | Problems |
