@@ -2,9 +2,9 @@ name: Embed Code From File
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "embed" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "embed" ]
 
 jobs:
   build:
