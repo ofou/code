@@ -8,7 +8,7 @@ This is my hands-on approach to cracking the Coding Interview:
 - Set a repo like this with `submodules` to improve your `git` skills
 - Solve problems in a daily basis *(min 1h/day)*
 - Write a data structures and algorithms guide
-- Reimplement in `python` and then in `c` key algorithms
+- Reimplement key data structures and algorithms in `python` and then in `c`
 - *Optional*: Read books like *Deep Work*, *Growth Mindset* and *Ultralearning* to get better at learning itself
 
 So the first step will be doing the following exercises from these platforms:
