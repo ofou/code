@@ -1,4 +1,25 @@
 # Code
+![This guide has taken me...](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/6a92e5e4-26fc-4de4-ac7a-cd942966f299.svg?style=for-the-badge)
+
+
+This is my hands-on approach to cracking the Coding Interview: 
+
+- Tracking coding time with [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
+- Set a repo like this with `submodules` to improve your `git` skills
+- Solve problems in a daily basis *(min 1h/day)*
+- Write a data structures and algorithms guide
+- Reimplement in `python` and then in `c` key algorithms
+- *Optional*: Read books like *Deep Work*, *Growth Mindset* and *Ultralearning* to get better at learning itself
+
+So the first step will be doing the following exercises from these platforms:
+
+- [**Exercism**](https://exercism.io/languages/python): Great opensource plaform master the language itself, from the basics to advanced topics.
+- [**HackerRank**](https://www.hackerrank.com/interview/preparation-kits/): They have Preparation Kits ranging from 1-week to 3-Months. Companies such as Amazon use the platform to interview candidates.
+- [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): They just released a sistematic program for exceling at interviews called 75.
+- [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. FAANGs use the platform to interview candidates. 
+
+## Preparation Kits
+
 
 |    Platform    |           Track            |     Time     | Problems |
 | :------------: | :------------------------: | :----------: | :------: |
