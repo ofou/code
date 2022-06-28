@@ -2,11 +2,11 @@
 ![This guide has taken me...](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/6a92e5e4-26fc-4de4-ac7a-cd942966f299.svg?style=for-the-badge)
 
 
-This is my hands-on approach to cracking the Coding Interview: 
+This is my hands-on approach to cracking the Coding Interview in a 6-month period: 
 
 - Tracking coding time with [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 - Set a repo like this with `submodules` to improve your `git` skills
-- Solve problems in a daily basis *(min 1h/day)*
+- Solve problems on a daily basis (min 30m/day)
 - Write a data structures and algorithms guide
 - Reimplement key data structures and algorithms in `python` and then in `c`
 - *Optional*: Read books like *Deep Work*, *Growth Mindset* and *Ultralearning* to get better at learning itself
@@ -28,6 +28,22 @@ So the first step will be doing the following exercises from these platforms:
 |  **LeetCode**  |      *75 Study Plan*       | [![][l]][l1] |    75    |
 | **CodeSignal** |    *Interview Practice*    | [![][c]][c1] |   110    |
 
+
+## Technical Books
+
+- Elements of Programming Interviews in Python
+- Ace The Software Engineering Interview
+## Misc Books
+
+There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. 
+
+Here are some books I personally read while doing the Interview Preparation:
+
+- **Deep Work**: *Rules for Focused Success in a Distracted World* by Cal Newport
+- **The Passionate Programmer**: *Why Some People Don't Read Enough Books* by Stephen R. Covey
+- **The Self-Taught Programmer**: *How to Learn Anything* by David Knell
+- **The Manager's Path**
+- **Software Engineering at Google**
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
 [e]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/9bc574bc-7d9b-47c6-8e77-2d94ee18d615.svg?style=social
