@@ -1,7 +1,7 @@
 # Code
 
-|    Platform    |           Track            | Time         | Problems |
-| :------------: | :------------------------: | ------------ | :------: |
+|    Platform    |           Track            |     Time     | Problems |
+| :------------: | :------------------------: | :----------: | :------: |
 |  **Exercism**  |          *Python*          | [![][e]][e1] |   131    |
 | **HackerRank** | *3 Months Preparation Kit* | [![][h]][h1] |   104    |
 |  **LeetCode**  |      *75 Study Plan*       | [![][l]][l1] |    75    |
