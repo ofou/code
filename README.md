@@ -1,11 +1,12 @@
 # Code
 
-| Platform   |        Track        | Time         | Problems |
-| ---------- | :-----------------: | ------------ | :------: |
-| CodeSignal | Interview Practice  | [![][c]][c1] |   110    |
-| Exercism   |       Python        | [![][e]][e1] |   131    |
-| HackerRank | 3-Month Preparation | [![][h]][h1] |   104    |
-| LeetCode   |         75          | [![][l]][l1] |    75    |
+|    Platform    |           Track            | Time         | Problems |
+| :------------: | :------------------------: | ------------ | :------: |
+|  **Exercism**  |          *Python*          | [![][e]][e1] |   131    |
+| **HackerRank** | *3 Months Preparation Kit* | [![][h]][h1] |   104    |
+|  **LeetCode**  |      *75 Study Plan*       | [![][l]][l1] |    75    |
+| **CodeSignal** |    *Interview Practice*    | [![][c]][c1] |   110    |
+
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
 [e]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/9bc574bc-7d9b-47c6-8e77-2d94ee18d615.svg?style=social
