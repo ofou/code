@@ -31,19 +31,20 @@ So the first step will be doing the following exercises from these platforms:
 
 ## Technical Books
 
-- Elements of Programming Interviews in Python
-- Ace The Software Engineering Interview
+- **Elements of Programming Interviews in Python**: The Insiders' Guide
+- **Ace The Software Engineering Interview**: An Interview Preparation Framework to Land the Job You Will Love
 ## Misc Books
 
 There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. 
 
 Here are some books I personally read while doing the Interview Preparation:
 
-- **Deep Work**: *Rules for Focused Success in a Distracted World* by Cal Newport
-- **The Passionate Programmer**: *Why Some People Don't Read Enough Books* by Stephen R. Covey
-- **The Self-Taught Programmer**: *How to Learn Anything* by David Knell
-- **The Manager's Path**
-- **Software Engineering at Google**
+- **Deep Work**: Rules for Focused Success in a Distracted World
+- **The Passionate Programmer**: Why Some People Don't Read Enough Books
+- **The Self-Taught Programmer**: The Definitive Guide to Programming Professionally
+- **The Manager's Path**: A Guide for Tech Leaders Navigating Growth and Change
+- **Software Engineering at Google**: Lessons Learned from Programming Over Time
+
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
 [e]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/9bc574bc-7d9b-47c6-8e77-2d94ee18d615.svg?style=social
@@ -56,11 +57,8 @@ Here are some books I personally read while doing the Interview Preparation:
 [l1]: https://leetcode.com/study-plan/leetcode-75/?progress=z4ltm72
 
 
-```python:https://github.com/ofou/leetcode/blob/c82bd05769d90a6ee671a7e6364b7445ff732744/python/1.two-sum.py
 
-```
 
-And, you can refer specific lines as
 ```python:https://github.com/ofou/leetcode/blob/c82bd05769d90a6ee671a7e6364b7445ff732744/python/1.two-sum.py [9-17]
  
 ```
