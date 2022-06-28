@@ -39,6 +39,9 @@ So the first step will be doing the following exercises from these platforms:
 [h1]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 [l1]: https://leetcode.com/study-plan/leetcode-75/?progress=z4ltm72
 
+
+-----
+
 ```python:https://github.com/ofou/leetcode/blob/c82bd05769d90a6ee671a7e6364b7445ff732744/python/1.two-sum.py
 
 ```
