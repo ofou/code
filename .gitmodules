@@ -1,0 +1,12 @@
+[submodule "codesignal"]
+	path = codesignal
+	url = git@github.com:ofou/codesignal.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:ofou/leetcode.git
+[submodule "exercism"]
+	path = exercism
+	url = git@github.com:ofou/exercism.git
+[submodule "hackerrank"]
+	path = hackerrank
+	url = git@github.com:ofou/hackerrank.git
