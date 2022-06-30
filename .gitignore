@@ -16,3 +16,4 @@ unity.c
 !*.pl
 makefile*
 !.gitignore
+/.gtm/
