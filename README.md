@@ -17,8 +17,8 @@ So the first step will be doing the following exercises from these platforms:
 
 - [**Exercism**](https://exercism.io/languages/python): Great opensource plaform to master the language itself, from the basics to advanced topics. Mentorship is free.
 - [**HackerRank**](https://www.hackerrank.com/interview/preparation-kits/): They have Preparation Kits ranging from 1-week to 3-Months. Companies such as Amazon use the platform to interview candidates.
-- [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): They just released a sistematic program for exceling at interviews called 75.
-- [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. FAANGs use the platform to interview candidates.
+- [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
+- [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 
 
 |    Platform    |           Track            |     Time     | Problems |
