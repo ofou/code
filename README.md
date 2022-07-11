@@ -35,8 +35,7 @@ So the first step will be doing the following exercises from these platforms:
 
 Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. Sorted by popularity.
 
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450302819l/28228020._SY475_.jpg" height="200" href="https://www.goodreads.com/book/show/28228020-ace-the-software-engineering-interview"> 
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347596769l/154154.jpg" height="200" href="https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python">
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450302819l/28228020._SY475_.jpg" height="200" href="https://www.goodreads.com/book/show/28228020-ace-the-software-engineering-interview"> <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347596769l/154154.jpg" height="200" href="https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python">
 
 ### Misc Books
 
