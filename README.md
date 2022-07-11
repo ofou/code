@@ -20,13 +20,13 @@ So the first step will be doing the following exercises from these platforms:
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
 
-|    Platform    |              Track               |  Time  | Problems |
-| :------------: | :------------------------------: | :----: | :------: |
-|  **Exercism**  |         [*Python* ][e1]          | ![][e] |   131    |
-| **HackerRank** | [*3 Months Preparation Kit*][h1] | ![][h] |   104    |
-|  **LeetCode**  |      [*75 Study Plan*][l1]       | ![][l] |    75    |
-| **CodeSignal** |    [*Interview Practice*][c1]    | ![][c] |   110    |
-|  **NeetCode**  |       [*NeetCode 150*][n1]       | ![][l] | 150[^1]  |
+|    Platform    |              Track               |     Time     | Problems |
+| :------------: | :------------------------------: | :----------: | :------: |
+|  **Exercism**  |         [*Python* ][e1]          | [![][e]][e_] |   131    |
+| **HackerRank** | [*3 Months Preparation Kit*][h1] | [![][h]][h_] |   104    |
+|  **LeetCode**  |      [*75 Study Plan*][l1]       | [![][l]][l_] |    75    |
+| **CodeSignal** |    [*Interview Practice*][c1]    | [![][c]][c_] |   110    |
+|  **NeetCode**  |       [*NeetCode 150*][n1]       | [![][l]][l_] | 150[^1]  |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
@@ -53,11 +53,16 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 </dl>
 
 
-[c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
-[e]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/9bc574bc-7d9b-47c6-8e77-2d94ee18d615.svg?style=social
-[h]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/ae7c93eb-6e19-4f02-afae-150fa66e35b9.svg?style=social
-[l]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/b6b62006-5e0a-41d5-aae4-0b0ac259893d.svg?style=social
-[n]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/b6b62006-5e0a-41d5-aae4-0b0ac259893d.svg?style=social
+[c]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
+[c_]: https://wakatime.com/badge/github/ofou/leetcode
+[e]: https://wakatime.com/badge/github/ofou/exercism.svg?style=social
+[e_]: https://wakatime.com/badge/github/ofou/exercism
+[h]: https://wakatime.com/badge/github/ofou/hackerrank.svg?style=social
+[h_]: https://wakatime.com/badge/github/ofou/hackerrank
+[l]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
+[l_]: https://wakatime.com/badge/github/ofou/leetcode
+[n]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
+[n]: https://wakatime.com/badge/github/ofou/leetcode
 
 [c1]: https://app.codesignal.com/interview-practice
 [e1]: https://exercism.org/tracks/python
