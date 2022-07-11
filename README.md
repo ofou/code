@@ -35,8 +35,8 @@ So the first step will be doing the following exercises from these platforms:
 
 Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. Sorted by popularity.
 
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450302819l/28228020._SY475_.jpg" height="200" href="https://www.goodreads.com/book/show/28228020-ace-the-software-engineering-interview"> <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347596769l/154154.jpg" height="200" href="https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python">
-
+- **Elements of Programming Interviews in Python**: The Insiders' Guide
+- **Ace The Software Engineering Interview**: An Interview Preparation Framework to Land the Job You Will Love
 ### Misc Books
 
 There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. But here are some books I personally to get better at learning itself.
