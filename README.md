@@ -40,14 +40,16 @@ Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-inte
 
 There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. But here are some books I personally to get better at learning itself.
 
-**Mindset**
-: *The New Psychology of Success* by Carol S. Dweck
+<dl>
+<dt>Mindset</dt>
+<dd>*The New Psychology of Success* by Carol S. Dweck</dd>
 
-**Deep Work**
-: *Rules for Focused Success in a Distracted World* by Cal Newport
+<dt>Deep Work</dt>
+<dd>*Rules for Focused Success in a Distracted World* by Cal Newport</dd>
 
-**Ultralearning**
-: *Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H. Young
+<dt>Ultralearning</dt>
+<dd>*Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H. Young</dd>
+</dl>
 
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
