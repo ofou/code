@@ -1,14 +1,12 @@
 # Code
 ![This guide has taken me...](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/6a92e5e4-26fc-4de4-ac7a-cd942966f299.svg?style=for-the-badge)
 
-https://github.com/ofou/code/blob/d30f6ad479cd7070b7e28666f5422e7f6b8b43f9/book/hello_world.py#L1
-
 This is my hands-on approach to *hacking* the Coding Interview: 
 
 1. Tracking coding time with [Git](https://git-time-metric.github.io/) and [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 2. Solve problems on a daily basis and `commit` every problem (min 30m/day)
 3. Read the [literature](#technical-books), and reimplement key [data structures](/data_structures/) and [algorithms](/algorithms/) in a high-level language such as `python` and then in low-level one like `c`
-4. Write a data structures, algorithms and problem solving [docs](/docs/)
+4. Write a data structures, algorithms and problem solving [book](/book/)
 5. Create an open source project to practice coding problems using `git` and `github`.
 - *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
 
