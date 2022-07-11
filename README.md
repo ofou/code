@@ -53,8 +53,8 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 </dl>
 
 
-[c]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
-[c_]: https://wakatime.com/badge/github/ofou/leetcode
+[c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
+[c_]: https://wakatime.com/badge/github/ofou/codesignal
 [e]: https://wakatime.com/badge/github/ofou/exercism.svg?style=social
 [e_]: https://wakatime.com/badge/github/ofou/exercism
 [h]: https://wakatime.com/badge/github/ofou/hackerrank.svg?style=social
