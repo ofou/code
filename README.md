@@ -29,6 +29,8 @@ So the first step will be doing the following exercises from these platforms:
 | **CodeSignal** |    [*Interview Practice*][c1]    | ![][c] |   110    |
 |  **NeetCode**  |       [*NeetCode 150*][n1]       | ![][l] | 150[^1]  |
 
+[^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
+
 ## Resources
 ### Technical Books
 
@@ -63,5 +65,3 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 [h1]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 [l1]: https://leetcode.com/study-plan/leetcode-75/
 [n1]: https://neetcode.io
-
-[^1]: This is based on LeetCode problems for time tracking.
