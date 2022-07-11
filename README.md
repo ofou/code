@@ -20,7 +20,7 @@ So the first step will be doing the following exercises from these platforms:
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
 
-<div width=9999>
+<div style="width:864px">
 
 |    Platform    |              Track               |     Time     | Problems |
 | :------------: | :------------------------------: | :----------: | :------: |
