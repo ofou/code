@@ -42,13 +42,13 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 
 <dl>
 <dt>Mindset</dt>
-<dd>*The New Psychology of Success* by Carol S. Dweck</dd>
+<dd>The New Psychology of Success by Carol S. Dweck</dd>
 
 <dt>Deep Work</dt>
-<dd>*Rules for Focused Success in a Distracted World* by Cal Newport</dd>
+<dd>Rules for Focused Success in a Distracted World by Cal Newport</dd>
 
 <dt>Ultralearning</dt>
-<dd>*Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H. Young</dd>
+<dd>Master Hard Skills, Outsmart the Competition, and Accelerate Your Career by Scott H. Young</dd>
 </dl>
 
 
