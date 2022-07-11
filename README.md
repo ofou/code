@@ -1,10 +1,9 @@
 # Code
 ![This guide has taken me...](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/6a92e5e4-26fc-4de4-ac7a-cd942966f299.svg?style=for-the-badge)
 
+https://github.com/ofou/code/blob/d30f6ad479cd7070b7e28666f5422e7f6b8b43f9/book/hello_world.py#L1
 
 This is my hands-on approach to *hacking* the Coding Interview: 
-
-https://github.com/ofou/leetcode/blob/da84814162737c760d7c0ca9ded2f5e51c6a5455/python/412.fizz-buzz.py?plain=1#L8-L13
 
 1. Tracking coding time with [Git](https://git-time-metric.github.io/) and [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 2. Solve problems on a daily basis and `commit` every problem (min 30m/day)
