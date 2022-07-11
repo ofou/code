@@ -1,0 +1,16 @@
+*.*
+!.vscode
+!*.cpp
+*test*.cpp
+!*.c
+*test_*.c
+unity.c
+!*.py
+*test.py
+!*.js
+!*.pl
+makefile*
+!.gitignore
+*.md
+__pycache__
+/.gtm/

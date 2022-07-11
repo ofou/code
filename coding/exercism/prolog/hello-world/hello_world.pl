@@ -1,0 +1,1 @@
+hello_world(X) :- write('Hello World!').
