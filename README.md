@@ -20,6 +20,8 @@ So the first step will be doing the following exercises from these platforms:
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
 
+<div width=9999>
+
 |    Platform    |              Track               |     Time     | Problems |
 | :------------: | :------------------------------: | :----------: | :------: |
 |  **Exercism**  |         [*Python* ][e1]          | [![][e]][e_] |   131    |
@@ -27,6 +29,8 @@ So the first step will be doing the following exercises from these platforms:
 |  **LeetCode**  |      [*75 Study Plan*][l1]       | [![][l]][l_] |    75    |
 | **CodeSignal** |    [*Interview Practice*][c1]    | [![][c]][c_] |   110    |
 |  **NeetCode**  |       [*NeetCode 150*][n1]       | [![][l]][l_] | 150[^1]  |
+
+</div>
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
