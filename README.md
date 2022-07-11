@@ -9,7 +9,7 @@ https://github.com/ofou/leetcode/blob/da84814162737c760d7c0ca9ded2f5e51c6a5455/p
 1. Tracking coding time with [Git](https://git-time-metric.github.io/) and [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 2. Solve problems on a daily basis and `commit` every problem (min 30m/day)
 3. Read the [literature](#technical-books), and reimplement key [data structures](/data_structures/) and [algorithms](/algorithms/) in a high-level language such as `python` and then in low-level one like `c`
-4. Write a data structures, algorithms and problem solving [book](/book)
+4. Write a data structures, algorithms and problem solving [docs](/docs/)
 5. Create an open source project to practice coding problems using `git` and `github`.
 - *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
 
