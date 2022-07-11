@@ -19,7 +19,7 @@ So the first step will be doing the following exercises from these platforms:
 - [**HackerRank**](https://www.hackerrank.com/interview/preparation-kits/): They have Preparation Kits ranging from 1-week to 3-Months. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
-
+- [**NeetCode**]([][n1]): This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages.
 
 |    Platform    |           Track            |     Time     | Problems |
 | :------------: | :------------------------: | :----------: | :------: |
@@ -27,6 +27,7 @@ So the first step will be doing the following exercises from these platforms:
 | **HackerRank** | *3 Months Preparation Kit* | [![][h]][h1] |   104    |
 |  **LeetCode**  |      *75 Study Plan*       | [![][l]][l1] |    75    |
 | **CodeSignal** |    *Interview Practice*    | [![][c]][c1] |   110    |
+|  **NeetCode**  |       *NeetCode 150*       | [![][n]][n1] |   150    |
 
 
 ## Resources
@@ -56,8 +57,10 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 [e]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/9bc574bc-7d9b-47c6-8e77-2d94ee18d615.svg?style=social
 [h]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/ae7c93eb-6e19-4f02-afae-150fa66e35b9.svg?style=social
 [l]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/b6b62006-5e0a-41d5-aae4-0b0ac259893d.svg?style=social
+[n]: https://wakatime.com/badge/user/
 
 [c1]: https://app.codesignal.com/interview-practice
 [e1]: https://exercism.org/tracks/python
 [h1]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 [l1]: https://leetcode.com/study-plan/leetcode-75/?progress=z4ltm72
+[n1]: https://neetcode.io
