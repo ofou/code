@@ -40,9 +40,9 @@ Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-inte
 | ![][0] |    *Ace the Software Engineering Interview*    |               Ryan Ylitalo                | 2015  | [0_]  |
 | ![][1] | *Elements of Programming Interviews in Python* | Adnan Aziz, Tsung-Hsien Lee, Amit Prakash | 2016  | [1_]  |
 
-[0]: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450302819l/28228020._SY475_.jpg|100px
+[0]: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450302819l/28228020._SY475_.jpg
 [0_]: https://www.goodreads.com/book/show/28228020-ace-the-software-engineering-interview
-[1]: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347596769l/154154.jpg|100px
+[1]: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347596769l/154154.jpg
 [1_]: https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python
 
 ### Misc Books
