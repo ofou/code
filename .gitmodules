@@ -1,0 +1,3 @@
+[submodule "coding/exercism"]
+	path = coding/exercism
+	url = git@github.com:ofou/exercism.git
