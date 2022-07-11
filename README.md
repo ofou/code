@@ -2,14 +2,16 @@
 ![This guide has taken me...](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/6a92e5e4-26fc-4de4-ac7a-cd942966f299.svg?style=for-the-badge)
 
 
-This is my hands-on approach to cracking the Coding Interview in a 6-month period: 
+This is my hands-on approach to *hacking* the Coding Interview: 
 
-- Tracking coding time with [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
-- Set a repo like this with `submodules` to improve your `git` skills
-- Solve problems on a daily basis (min 30m/day)
-- Write a data structures and algorithms guide
-- Reimplement key data structures and algorithms in `python` and then in `c`
-- *Optional*: Read books like *Deep Work*, *Growth Mindset* and *Ultralearning* to get better at learning itself
+1. Tracking coding time with [Git](https://git-time-metric.github.io/) and [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
+2. Solve problems on a daily basis and `commit` every problem (min 30m/day)
+3. Read the [literature](#technical-books), and reimplement key [data structures](/data_structures/) and [algorithms](/algorithms/) in a high-level language such as `python` and then in low-level one like `c`
+4. Write a data structures, algorithms and problem solving [book](/book)
+5. Create an open source project to practice coding problems using `git` and `github`.
+- *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
+
+## Explore Top Coding Problems
 
 So the first step will be doing the following exercises from these platforms:
 
@@ -17,8 +19,6 @@ So the first step will be doing the following exercises from these platforms:
 - [**HackerRank**](https://www.hackerrank.com/interview/preparation-kits/): They have Preparation Kits ranging from 1-week to 3-Months. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**](https://leetcode.com/study-plan/leetcode-75/): They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**](https://app.codesignal.com/interview-practice): Great selection of problems from companies past interviews. FAANGs use the platform to interview candidates.
-
-## 1. Coding Problems
 
 
 |    Platform    |           Track            |     Time     | Problems |
@@ -29,21 +29,25 @@ So the first step will be doing the following exercises from these platforms:
 | **CodeSignal** |    *Interview Practice*    | [![][c]][c1] |   110    |
 
 
-## Technical Books
+## Resources
+### Technical Books
+
+Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. Sorted by popularity.
 
 - **Elements of Programming Interviews in Python**: The Insiders' Guide
 - **Ace The Software Engineering Interview**: An Interview Preparation Framework to Land the Job You Will Love
-## Misc Books
+### Misc Books
 
-There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. 
+There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. But here are some books I personally to get better at learning itself.
 
-Here are some books I personally read while doing the Interview Preparation:
+*Mindset* by Carol S. Dweck
+: The New Psychology of Success
 
-- **Deep Work**: Rules for Focused Success in a Distracted World
-- **The Passionate Programmer**: Why Some People Don't Read Enough Books
-- **The Self-Taught Programmer**: The Definitive Guide to Programming Professionally
-- **The Manager's Path**: A Guide for Tech Leaders Navigating Growth and Change
-- **Software Engineering at Google**: Lessons Learned from Programming Over Time
+*Deep Work* by Cal Newport
+: Rules for Focused Success in a Distracted World
+
+*Ultralearning* by Scott H. Young
+: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career
 
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/42542304-ee4a-4bf7-a5d9-783333f3cbda.svg?style=social
@@ -55,10 +59,3 @@ Here are some books I personally read while doing the Interview Preparation:
 [e1]: https://exercism.org/tracks/python
 [h1]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
 [l1]: https://leetcode.com/study-plan/leetcode-75/?progress=z4ltm72
-
-
-
-
-```python:https://github.com/ofou/leetcode/blob/c82bd05769d90a6ee671a7e6364b7445ff732744/python/1.two-sum.py [9-17]
- 
-```
