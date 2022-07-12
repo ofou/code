@@ -1,12 +1,16 @@
 [submodule "coding/exercism"]
 	path = coding/exercism
 	url = git@github.com:ofou/exercism.git
+	ignore = dirty
 [submodule "coding/leetcode"]
 	path = coding/leetcode
 	url = git@github.com:ofou/leetcode.git
+	ignore = dirty
 [submodule "coding/codesignal"]
 	path = coding/codesignal
 	url = git@github.com:ofou/codesignal.git
+	ignore = dirty
 [submodule "coding/hackerrank"]
 	path = coding/hackerrank
 	url = git@github.com:ofou/hackerrank.git
+	ignore = dirty
