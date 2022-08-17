@@ -3,7 +3,7 @@
 
 This is my hands-on approach to *hacking* the Coding Interview: 
 
-1. **Tracking coding time** with [Git](https://git-time-metric.github.io/) and [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
+1. **Tracking coding time** with [Git](https://git-time-metric.github.io/) or [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 2. **Solve [coding](/coding/) problems on a daily basis** and `commit` every problem (min 30m/day)
 3. **Read the [literature](#technical-books), and reimplement key [data structures](/bits/) and [algorithms](/algorithms/)** in a high-level language such as `python` and then in low-level one like `c`
 4. **Write a data structures, algorithms and problem solving [docs](/docs/)**
