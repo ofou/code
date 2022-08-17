@@ -15,18 +15,18 @@ This is my hands-on approach to *hacking* the Coding Interview:
 So the first step will be doing the following exercises from these platforms:
 
 - [**Exercism**][e1]: Great opensource plaform to master the language itself, from the basics to advanced topics. Mentorship is free.
-- [**HackerRank**][h1]: They have Preparation Kits ranging from 1-week to 3-Months. Companies such as Amazon use the platform to interview candidates.
+- [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
 
-|    Platform    |              Track               |     Time     | Problems |
-| :------------: | :------------------------------: | :----------: | :------: |
-|  **Exercism**  |         [*Python* ][e1]          | [![][e]][e_] |   131    |
-| **HackerRank** | [*3 Months Preparation Kit*][h1] | [![][h]][h_] |   104    |
-|  **LeetCode**  |      [*75 Study Plan*][l1]       | [![][l]][l_] |    75    |
-| **CodeSignal** |    [*Interview Practice*][c1]    | [![][c]][c_] |   110    |
-|  **NeetCode**  |       [*NeetCode 150*][n1]       | [![][l]][l_] | 150[^1]  |
+|    Platform    |               Track               |     Time     | Problems |
+| :------------: | :-------------------------------: | :----------: | :------: |
+|  **Exercism**  |          [*Python* ][e1]          | [![][e]][e_] |   131    |
+| **HackerRank** | [*Interview Preparation Kit*][h1] | [![][h]][h_] |   104    |
+|  **LeetCode**  |       [*75 Study Plan*][l1]       | [![][l]][l_] |    75    |
+| **CodeSignal** |    [*Interview Practice*][c1]     | [![][c]][c_] |   110    |
+|  **NeetCode**  |       [*NeetCode 150*][n1]        | [![][l]][l_] | 150[^1]  |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
@@ -66,6 +66,9 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 
 [c1]: https://app.codesignal.com/interview-practice
 [e1]: https://exercism.org/tracks/python
-[h1]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges
+[h1]: https://www.hackerrank.com/interview/interview-preparation-kit
 [l1]: https://leetcode.com/study-plan/leetcode-75/
 [n1]: https://neetcode.io
+[1-week]: https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/
+[1-month]: https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/
+[3-months]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/
