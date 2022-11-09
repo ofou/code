@@ -16,19 +16,21 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 So the first step will be doing the following exercises from these platforms:
 
+- [**Khan Academy**][k1]: Introductory exercises to get you started with the basics of algorithms. Great intro using Javascript. The materials here were developed by Dartmouth College professors Tom Cormen & Devin Balkcom, the first is the same author as the famous book *[Introduction to Algorithms]*.
 - [**Exercism**][e1]: Great opensource plaform to master the language itself, from the basics to advanced topics. Mentorship is free.
 - [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
 
-|    Platform    |               Track               |     Time      | Problems |
-| :------------: | :-------------------------------: | :-----------: | :------: |
-|  **Exercism**  |          [*Python*][e1]           | [![_][e]][e_] |   131    |
-| **HackerRank** | [*Interview Preparation Kit*][h1] | [![_][h]][h_] |   104    |
-|  **LeetCode**  |       [*75 Study Plan*][l1]       | [![_][l]][l_] |    75    |
-| **CodeSignal** |    [*Interview Practice*][c1]     | [![_][c]][c_] |   110    |
-|  **NeetCode**  |       [*NeetCode 150*][n1]        | [![_][l]][l_] | 150[^1]  |
+|     Platform     |               Track               |     Time      | Problems |
+| :--------------: | :-------------------------------: | :-----------: | :------: |
+| **Khan Academy** |    [*Intro to algorithms*][k1]    |       -       |    25    |
+|   **Exercism**   |          [*Python*][e1]           | [![_][e]][e_] |   131    |
+|  **HackerRank**  | [*Interview Preparation Kit*][h1] | [![_][h]][h_] |   104    |
+|   **LeetCode**   |       [*75 Study Plan*][l1]       | [![_][l]][l_] |    75    |
+|  **CodeSignal**  |    [*Interview Practice*][c1]     | [![_][c]][c_] |   110    |
+|   **NeetCode**   |       [*NeetCode 150*][n1]        | [![_][l]][l_] | 150[^1]  |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
@@ -38,8 +40,14 @@ So the first step will be doing the following exercises from these platforms:
 
 There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read:
 
-- **Ace The Software Engineering Interview**: *An Interview Preparation Framework to Land the Job You Will Love* by Ryan Ylitalo
-- **Elements of Programming Interviews in Python**: *The Insiders' Guide* by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
+|                                                      Cover                                                       |                                                    Title                                                     |                 Author(s)                 |
+| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------: |
+|       <img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="100">       | [Ace The Software Engineering Interview]: *An Interview Preparation Framework to Land the Job You Will Love* |               Ryan Ylitalo                |
+| <img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="100"> |                    [Elements of Programming Interviews in Python]: *The Insiders' Guide*                     | Adnan Aziz, Tsung-Hsien Lee, Amit Prakash |
+|                                                                                                                  |                                                                                                              |                                           |
+
+[Ace The Software Engineering Interview]: https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020
+[Elements of Programming Interviews in Python]: https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949             
 
 ### Misc Books
 
@@ -47,7 +55,6 @@ Here are some books I personally read to get better at [meta-learning].
 
 - **Mindset**: *The New Psychology of Success* by Carol S. Dweck
 - **Deep Work**: *Rules for Focused Success in a Distracted World* by Cal Newport
-
 - **Ultralearning**: *Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H. Young
 
 [c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
@@ -58,14 +65,18 @@ Here are some books I personally read to get better at [meta-learning].
 [h_]: https://wakatime.com/badge/github/ofou/hackerrank
 [l]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
 [l_]: https://wakatime.com/badge/github/ofou/leetcode
+[k]: https://wakatime.com/badge/github/ofou/khan.svg?style=social
+[k_]: https://wakatime.com/badge/github/ofou/khanacademy
 
 [c1]: https://app.codesignal.com/interview-practice
 [e1]: https://exercism.org/tracks/python
 [h1]: https://www.hackerrank.com/interview/interview-preparation-kit
 [l1]: https://leetcode.com/study-plan/leetcode-75/
 [n1]: https://neetcode.io
+[k1]: https://www.khanacademy.org/computing/computer-science/algorithms
 [1-week]: https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/
 [1-month]: https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/
 [3-months]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/
 
 [meta-learning]: https://en.wikipedia.org/wiki/Meta-learning
+[Introduction to Algorithms]: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
