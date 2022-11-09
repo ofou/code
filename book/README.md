@@ -1,6 +1,6 @@
 # Computer
 
-## An open-source book to master data structures, algorithms and coding interviews from first principles
+## Open-source book to master data structures, algorithms and coding interviews from first principles
 
 <https://github.com/ofou/code/blob/d30f6ad479cd7070b7e28666f5422e7f6b8b43f9/book/hello_world.py#L1>
 
@@ -17,4 +17,4 @@ It's intended to be a physical[^1] companion to the eponymous [YouTube] series.
 
 ## Index
 
-[^1]: This is a work-in-progress to later turn into a proper [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
+[^1]: This is a work-in-progress to later turn into a proper [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and printing it as an affordable physical book on demand.
