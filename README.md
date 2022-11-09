@@ -38,7 +38,7 @@ So the first step will be doing the following exercises from these platforms:
 
 ### Technical Books
 
-There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read:
+There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read during this preparation period:
 
 <a href="https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020"><img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="200" ></a>
 <a href="https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949"><img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200"></a>
