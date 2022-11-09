@@ -17,6 +17,8 @@ unity.c
 makefile*
 !.gitignore
 /.gtm/
+!*.md
+ideas.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

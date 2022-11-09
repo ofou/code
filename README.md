@@ -6,8 +6,8 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 1. **Tracking coding time** with [Git](https://git-time-metric.github.io/) or [Wakatime](https://wakatime.com/). *(What you can't measure, you can't improve)*
 2. **Solve [coding](/coding/) problems on a daily basis** and `commit` every problem (min 30m/day)
-3. **Read the [literature](#technical-books), and reimplement key [data structures](/bits/) and [algorithms](/algorithms/)** in a high-level language such as `python` and then in low-level one like `c`
-4. **Write a data structures, algorithms and problem solving [docs](/docs/)**
+3. **Read the [literature](#resources), and reimplement key [data structures](/bits/) and [algorithms](/algorithms/)** in a high-level language such as `python` and when needed in a low-level one like `c`
+4. **Write a data structures, algorithms and problem solving [book](/book/)**
 5. **Create an open source project to practice coding problems** using `git` and `github`.
 
 - *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
@@ -36,14 +36,14 @@ So the first step will be doing the following exercises from these platforms:
 
 ### Technical Books
 
-Compiled list of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. Sorted by popularity.
+There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read:
 
-- **Elements of Programming Interviews in Python**: The Insiders' Guide
-- **Ace The Software Engineering Interview**: An Interview Preparation Framework to Land the Job You Will Love
+- **Ace The Software Engineering Interview**: *An Interview Preparation Framework to Land the Job You Will Love* by Ryan Ylitalo
+- **Elements of Programming Interviews in Python**: *The Insiders' Guide* by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash
 
 ### Misc Books
 
-There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski/computer-science) in the internet that recommend excelent material about Computer Science. But here are some books I personally to get better at learning itself.
+Here are some books I personally read to get better at [meta-learning].
 
 - **Mindset**: *The New Psychology of Success* by Carol S. Dweck
 - **Deep Work**: *Rules for Focused Success in a Distracted World* by Cal Newport
@@ -67,3 +67,5 @@ There [many](https://teachyourselfcs.com/) [sites](https://github.com/boniverski
 [1-week]: https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/
 [1-month]: https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/
 [3-months]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/
+
+[meta-learning]: https://en.wikipedia.org/wiki/Meta-learning
