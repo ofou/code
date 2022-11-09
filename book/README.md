@@ -38,4 +38,4 @@ Operations on a stack are all **`O(1)`.**
 
 Here is a minimal implementation of the stack class:
 
-<https://github.com/ofou/code/blob/main/data_structures/stack/stack.py#L1-L27>
+<https://github.com/ofou/code/blob/2a00dfbe607a8053d3f5cc59def06073cdb61d0d/data_structures/stack/stack.py#L1-L27>
