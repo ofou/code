@@ -40,22 +40,20 @@ So the first step will be doing the following exercises from these platforms:
 
 There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read:
 
-|                                                      Cover                                                       |                                                    Title                                                     |                 Author(s)                 |
-| :--------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------: |
-|       <img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="100">       | [Ace The Software Engineering Interview]: *An Interview Preparation Framework to Land the Job You Will Love* |               Ryan Ylitalo                |
-| <img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="100"> |                    [Elements of Programming Interviews in Python]: *The Insiders' Guide*                     | Adnan Aziz, Tsung-Hsien Lee, Amit Prakash |
-|                                                                                                                  |                                                                                                              |                                           |
-
-[Ace The Software Engineering Interview]: https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020
-[Elements of Programming Interviews in Python]: https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949             
+<div style="margin:1em">
+<a href="https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020"><img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="200" ></a>
+<a href="https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949"><img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200"></a>
+</div>
 
 ### Misc Books
 
 Here are some books I personally read to get better at [meta-learning].
 
-- **Mindset**: *The New Psychology of Success* by Carol S. Dweck
-- **Deep Work**: *Rules for Focused Success in a Distracted World* by Cal Newport
-- **Ultralearning**: *Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H. Young
+<div style="margin:1em">
+<a href="https://www.amazon.com/-/es/Carol-Dweck/dp/0345472322"><img src="https://m.media-amazon.com/images/I/41j2-Rz1jiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200"></a>
+<a href="https://www.amazon.com/-/es/Cal-Newport/dp/1455586692"><img src="https://m.media-amazon.com/images/I/41W+SUER72L._SY344_BO1,204,203,200_.jpg" height="200"></a>
+<a href="https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X"><img src="https://m.media-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" height="200"></a>
+</div>
 
 [c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
 [c_]: https://wakatime.com/badge/github/ofou/codesignal
@@ -65,8 +63,6 @@ Here are some books I personally read to get better at [meta-learning].
 [h_]: https://wakatime.com/badge/github/ofou/hackerrank
 [l]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
 [l_]: https://wakatime.com/badge/github/ofou/leetcode
-[k]: https://wakatime.com/badge/github/ofou/khan.svg?style=social
-[k_]: https://wakatime.com/badge/github/ofou/khanacademy
 
 [c1]: https://app.codesignal.com/interview-practice
 [e1]: https://exercism.org/tracks/python
