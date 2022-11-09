@@ -40,20 +40,16 @@ So the first step will be doing the following exercises from these platforms:
 
 There's a lot of [Coding Interview](https://www.goodreads.com/genres/coding-interview) books. But I would recommend the following that I personally read:
 
-<div style="margin:1em">
 <a href="https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020"><img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="200" ></a>
 <a href="https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949"><img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200"></a>
-</div>
 
 ### Misc Books
 
 Here are some books I personally read to get better at [meta-learning].
 
-<div style="margin:1em">
 <a href="https://www.amazon.com/-/es/Carol-Dweck/dp/0345472322"><img src="https://m.media-amazon.com/images/I/41j2-Rz1jiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200"></a>
 <a href="https://www.amazon.com/-/es/Cal-Newport/dp/1455586692"><img src="https://m.media-amazon.com/images/I/41W+SUER72L._SY344_BO1,204,203,200_.jpg" height="200"></a>
 <a href="https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X"><img src="https://m.media-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" height="200"></a>
-</div>
 
 [c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
 [c_]: https://wakatime.com/badge/github/ofou/codesignal
