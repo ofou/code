@@ -22,6 +22,13 @@ So the first step will be doing the following exercises from these platforms:
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
+- [**Clist**][c2]: A curated list of competitions for competitive programming.
+- [**Kaggle**][k2]: A great place to practice data science and machine learning skills, it also includes great introductory courses and tutorials by experts.
+- [**CSAcademy**][c3]: A great place to find lessons, competitions, and exercises on algorithms and data structures. Great organization of the content.
+
+Other great sites to consider are: [freeCodeCamp] (free), [The Odin Project] (free), [Egghead] (Freemium), and [CodeCrafters] (paid).
+
+---
 
 |     Platform     |               Track               |     Time      | Problems |
 | :--------------: | :-------------------------------: | :-----------: | :------: |
@@ -72,3 +79,11 @@ Here are some books I personally read to get better at [meta-learning].
 
 [meta-learning]: https://en.wikipedia.org/wiki/Meta-learning
 [Introduction to Algorithms]: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+
+[c2]: https://clist.by/?view=list
+[k2]: https://www.kaggle.com/competitions
+[c3]: https://csacademy.com/contest/archive/
+[freeCodeCamp]: https://www.freecodecamp.org/learn
+[Egghead]: https://egghead.io/topics
+[The Odin Project]: https://www.theodinproject.com
+[CodeCrafters]: https://codecrafters.io
