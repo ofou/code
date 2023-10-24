@@ -12,7 +12,7 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 - *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
   
-## Explore Top Coding Problems
+## Explore Top Interview Coding Problems
 
 So the first step will be doing the following exercises from these platforms:
 
@@ -22,11 +22,8 @@ So the first step will be doing the following exercises from these platforms:
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a sistematic program for exceling at interviews called 75.
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
-- [**Clist**][c2]: A curated list of competitions for competitive programming.
-- [**Kaggle**][k2]: A great place to practice data science and machine learning skills, it also includes great introductory courses and tutorials by experts.
-- [**CSAcademy**][c3]: A great place to find lessons, competitions, and exercises on algorithms and data structures. Great organization of the content.
 
-Other great sites to consider are: [freeCodeCamp] (free), [The Odin Project] (free), [Egghead] (Freemium), and [CodeCrafters] (paid).
+Also consult [Visualgo] for visualising data structures and algorithms through animation. Other great sites to consider are: [freeCodeCamp] (free), [The Odin Project] (free), [Egghead] (Freemium), and [CodeCrafters] (paid). 
 
 ---
 
@@ -40,6 +37,14 @@ Other great sites to consider are: [freeCodeCamp] (free), [The Odin Project] (fr
 |   **NeetCode**   |       [*NeetCode 150*][n1]        | [![_][l]][l_] | 150[^1]  |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
+
+## Explore Coding Competition once you are comfortable with the basics
+
+- [**Clist**][c2]: A curated list of competitions for competitive programming.
+- [**CSAcademy**][c3]: A great place to find lessons, competitions, and exercises on algorithms and data structures. Great organization of the content.
+- [**Kaggle**][k2]: A great place to practice data science and machine learning skills, it also includes great introductory courses and tutorials by experts.
+- [**Google's Coding Competitions**][g1]: International programming competition hosted and administered by Google. The competition began in 2003. Good Prizes.
+
 
 ## Resources
 
@@ -87,3 +92,5 @@ Here are some books I personally read to get better at [meta-learning].
 [Egghead]: https://egghead.io/topics
 [The Odin Project]: https://www.theodinproject.com
 [CodeCrafters]: https://codecrafters.io
+[visualgo]: https://visualgo.net/en
+[g1]: https://codingcompetitionsonair.withgoogle.com/
