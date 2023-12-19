@@ -104,3 +104,4 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
+book/_build

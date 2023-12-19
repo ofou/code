@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Open Source Machine Learning
+  description: This book aims to be a free, up-to-date, science-backed, and open source resource to learn the fundamentals of Machine Learning and Computer Science.
+  keywords: [Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks]
+  authors: Omar Olivares
+  github: https://github.com/ofou/code
+  bibliography: 
+    - articles.bib 
+    - books.bib
+site:
+  template: book-theme
+  title: Open Source Machine Learning Book
+  # options:
+  #   logo: site_logo.png
+  nav: []
+  actions:
+    - title: Buy Book
+      url: https://人工.org/book
+  domains: []
