@@ -1,4 +1,4 @@
-# Open Source Machine Learning Book
+# Open Source Machine Learning book
 
 > *“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”*
 > ― Alan Turing

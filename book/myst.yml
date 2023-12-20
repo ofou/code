@@ -1,14 +1,31 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Open Source Machine Learning
+  title: "Open Source Machine Learning"
+  subtitle: Learn the fundamentals from first principles thinking
   description: This book aims to be a free, up-to-date, science-backed, and open source resource to learn the fundamentals of Machine Learning and Computer Science.
   keywords: [Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks]
-  authors: Omar Olivares
+  authors:
+  - name: Omar Olivares
+    email: omar.olivares@alu.ucm.cl
+    affiliations:
+      - id: ucm
+        institution: Universidad Católica del Maule
+        department: Facultad de Ciencias de la Ingeniería
+        city: Talca
+        country: Chile
+        url: https://www.ucm.cl
+      - id: ai
+        institution: 人工
+        city: San Francisco
+        country: USA
+        url: https://人工.org
   github: https://github.com/ofou/code
   bibliography: 
     - articles.bib 
     - books.bib
+  license: CC-BY-NC-SA-4.0
+  open_access: true
 site:
   template: book-theme
   title: Open Source Machine Learning Book
