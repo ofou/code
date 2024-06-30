@@ -8,12 +8,40 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 1. **Tracking coding time** with [Wakatime](https://wakatime.com/) or [Git](https://git-time-metric.github.io/). *(What you can't measure, you can't improve)*
 2. **Solve [coding](/coding/) problems on a daily basis** and `commit` every problem (min 30m/day)
-3. **Read the [literature](#resources), and reimplement key [data structures](/data_structures/) and [algorithms](/algorithms/)** in a high-level language such as `python` and when needed in a low-level one like `c`
+3. **Read technical books, and reimplement key [data structures](/data_structures/) and [algorithms](/algorithms/)** in a high-level language such as `python` and when needed in a low-level one like `c`
 4. **Take notes in the form of a [book](/book/), videos, or in-depth tutorials**
-5. **Give back to the open source community** helping with projects to test your knowledge in the wild. Great places to start contributing are Exercism's  [tracks], FreeCodeCamp's [curriculum], CodeCrafters's [projects], CodeAcademy's [docs], or your favorite repository on Github.
+5. **Give back to the open source community** helping with projects to test your knowledge in the wild. Great places to start contributing are Exercism's [tracks], FreeCodeCamp's [curriculum], CodeCrafters's [projects], CodeAcademy's [docs], or your favorite repository on Github.
 
-- *Optional*: Read books like *[Growth Mindset](#misc-books)*, *[Deep Work](#misc-books)*, and *[Ultralearning](#misc-books)* to get better at learning itself.
-  
+<details>
+<summary>Optional: Enhance Your Learning Abilities</summary>
+*Improve your learning skills by exploring these insightful books:*
+
+- **[Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)** by Daniel Kahneman
+  - Explores two systems of thinking: fast (intuitive) and slow (deliberative), revealing how they shape our judgments and decisions. Kahneman offers insights into avoiding cognitive biases and making better choices by understanding these mental processes.
+
+- **[Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)** by Cal Newport
+  - Argues that the ability to focus without distraction on cognitively demanding tasks is increasingly valuable in our economy. Newport provides strategies for cultivating deep work habits to achieve focused success in a world full of shallow distractions.
+
+- **[Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)** by Carol S. Dweck
+  - Introduces the concept of "fixed" versus "growth" mindsets, demonstrating how believing in the potential to develop abilities leads to greater achievement and fulfillment. Dweck offers practical strategies for fostering a growth mindset in various life domains.
+
+- **[Ultralearning](https://www.goodreads.com/book/show/44770129-ultralearning)** by Scott Young
+  - Presents a blueprint for aggressive self-directed learning, outlining nine principles of ultralearning illustrated through stories of remarkable achievements. Young shows how focused, intense, and strategic learning can lead to rapid skill acquisition.
+
+- **[The Art of Learning: An Inner Journey to Optimal Performance](https://www.goodreads.com/book/show/857333.The_Art_of_Learning)** by Josh Waitzkin
+  - Drawing from his experiences as a chess prodigy and martial arts champion, Waitzkin shares insights on achieving peak performance through embracing challenges, maintaining a growth mindset, and developing resilience in any field.
+
+- **[A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)** by Barbara Oakley
+  - Offers practical advice for succeeding in math and science, based on Oakley's personal journey of overcoming difficulties in these subjects. Covers effective study techniques, memory strategies, and the importance of practice in developing mathematical and scientific skills.
+
+- **[How We Learn: The Surprising Truth About When, Where, and Why It Happens](https://www.goodreads.com/book/show/20613625-how-we-learn)** by Benedict Carey
+  - Delves into cognitive science research to reveal the mechanics of learning, debunking common study myths and providing evidence-based techniques to enhance memory, understanding, and problem-solving skills.
+
+- **[The Art of Doing Science and Engineering: Learning to Learn](https://www.goodreads.com/book/show/28564512-the-art-of-doing-science-and-engineering)** by Richard Hamming
+  - A renowned mathematician and computer scientist shares insights into scientific and engineering discovery, emphasizing the crucial roles of curiosity, creativity, and persistence in tackling complex problems and making significant contributions to these fields.
+
+</details>
+
 ## Explore Top Interview Coding Problems
 
 So the first step will be doing the following exercises from these platforms:
@@ -44,30 +72,6 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
-## Explore Coding Competition once you are comfortable with the basics
-
-- [**Clist**][c2]: A curated list of competitions for competitive programming.
-- [**CSAcademy**][c3]: A great place to find lessons, competitions, and exercises on algorithms and data structures. Great organization of the content.
-- [**Kaggle**][k2]: A great place to practice data science and machine learning skills, it also includes great introductory courses and tutorials by experts.
-- [**Google's Coding Competitions**][g1]: International programming competition hosted and administered by Google. The competition began in 2003. Good Prizes.
-
-## Resources
-
-### Technical Books
-
-There's a lot of [Coding Interview] books. But I would recommend the following that I personally read during this preparation period:
-
-<a href="https://www.amazon.com/Ace-Software-Engineering-Interview-Preparation/dp/1522703020"><img src="https://m.media-amazon.com/images/I/51JLxbBUufL._SX331_BO1,204,203,200_.jpg" height="200" alt=""></a>
-<a href="https://www.amazon.com/-/es/Adnan-Aziz/dp/1537713949"><img src="https://m.media-amazon.com/images/I/41CUbGSthHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200" alt=""></a>
-
-### Misc Books
-
-Here are some books I personally read to get better at [meta-learning].
-
-<a href="https://www.amazon.com/-/es/Carol-Dweck/dp/0345472322"><img src="https://m.media-amazon.com/images/I/41j2-Rz1jiL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" height="200" alt=""></a>
-<a href="https://www.amazon.com/-/es/Cal-Newport/dp/1455586692"><img src="https://m.media-amazon.com/images/I/41W+SUER72L._SY344_BO1,204,203,200_.jpg" height="200" alt=""></a>
-<a href="https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X"><img src="https://m.media-amazon.com/images/I/51PfH156fIL._SX329_BO1,204,203,200_.jpg" height="200" alt=""></a>
-
 <!-- LINKS -->
 
 [c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
@@ -89,15 +93,9 @@ Here are some books I personally read to get better at [meta-learning].
 [1-month]: https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/
 [3-months]: https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/
 
-[meta-learning]: https://en.wikipedia.org/wiki/Meta-learning
 [Introduction to Algorithms]: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
 
-[c2]: https://clist.by/?view=list
-[k2]: https://www.kaggle.com/competitions
-[c3]: https://csacademy.com/contest/archive/
 [visualgo]: https://visualgo.net/en
-[g1]: https://codingcompetitionsonair.withgoogle.com/
-[Coding Interview]: https://www.goodreads.com/genres/coding-interview
 [f1]: https://www.freecodecamp.org/learn/coding-interview-prep/
 [tracks]: https://github.com/exercism
 [docs]: https://github.com/Codecademy/docs
