@@ -45,6 +45,16 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 So the first step will be doing the following exercises from these platforms:
 
+|       Platform       |            Track            |     Time      | Problems |
+| :------------------: | :-------------------------: | :-----------: | :------: |
+|   **Khan Academy**   | [*Intro to algorithms*][k1] |       -       |    25    |
+|     **Exercism**     |       [*Python*][e1]        | [![_][e]][e_] |   131    |
+|    **HackerRank**    | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
+|     **LeetCode**     |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
+|    **CodeSignal**    | [*Interview Practice*][c1]  | [![_][c]][c_] |   110    |
+|     **NeetCode**     |      [*NeetCode*][n1]       | [![_][l]][l_] | 150[^1]  |
+| **Machine Learning** |      [*Problems*][ml1]      |       -       |    26    |
+
 - [**Khan Academy**][k1]: Introductory exercises to get you started with the basics of algorithms. Great intro using Javascript & Python. The materials were developed by Dartmouth College professors Tom Cormen & Devin Balkcom, the first is the same author as the famous book *[Introduction to Algorithms]*.
 - [**Exercism**][e1]: Great open source platform to master any programming language itself, from the basics to advanced topics. Mentorship is free.
 - [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
@@ -57,17 +67,6 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 
 [The Euler Project]: https://projecteuler.net
 [Rosetta Code]: https://rosettacode.org/wiki/Rosetta_Code
----
-
-|       Platform       |            Track            |     Time      | Problems |
-| :------------------: | :-------------------------: | :-----------: | :------: |
-|   **Khan Academy**   | [*Intro to algorithms*][k1] |       -       |    25    |
-|     **Exercism**     |       [*Python*][e1]        | [![_][e]][e_] |   131    |
-|    **HackerRank**    | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
-|     **LeetCode**     |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
-|    **CodeSignal**    | [*Interview Practice*][c1]  | [![_][c]][c_] |   110    |
-|     **NeetCode**     |      [*NeetCode*][n1]       | [![_][l]][l_] | 150[^1]  |
-| **Machine Learning** |      [*Problems*][ml1]      |       -       |    26    |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
