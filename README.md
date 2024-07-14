@@ -45,16 +45,6 @@ This is my hands-on approach to *hacking* the Coding Interview:
 
 So the first step will be doing the following exercises from these platforms:
 
-|       Platform       |            Track            |     Time      | Problems |
-| :------------------: | :-------------------------: | :-----------: | :------: |
-|   **Khan Academy**   | [*Intro to algorithms*][k1] |       -       |    25    |
-|     **Exercism**     |       [*Python*][e1]        | [![_][e]][e_] |   131    |
-|    **HackerRank**    | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
-|     **LeetCode**     |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
-|    **CodeSignal**    | [*Interview Practice*][c1]  | [![_][c]][c_] |   110    |
-|     **NeetCode**     |      [*NeetCode*][n1]       | [![_][l]][l_] | 150[^1]  |
-| **Machine Learning** |      [*Problems*][ml1]      |       -       |    26    |
-
 - [**Khan Academy**][k1]: Introductory exercises to get you started with the basics of algorithms. Great intro using Javascript & Python. The materials were developed by Dartmouth College professors Tom Cormen & Devin Balkcom, the first is the same author as the famous book *[Introduction to Algorithms]*.
 - [**Exercism**][e1]: Great open source platform to master any programming language itself, from the basics to advanced topics. Mentorship is free.
 - [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
@@ -63,12 +53,60 @@ So the first step will be doing the following exercises from these platforms:
 - [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
 - [**Coding Interview Prep**][f1]: The Coding Interview Prep by freeCodeCamp contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics.
 
-Also consult [Visualgo] for visualizing data structures and algorithms through animation. Other great resources to consider are: [The Euler Project] (free), and [Rosetta Code] (free).
+Also consult [Visualgo] for visualizing data structures and algorithms through animation. Other great resources to consider are: [High Load], [The Euler Project] (free), and [Rosetta Code] (free).
 
 [The Euler Project]: https://projecteuler.net
 [Rosetta Code]: https://rosettacode.org/wiki/Rosetta_Code
+[High Load]: https://highload.fun
+
+|     Platform     |            Track            |     Time      | Problems |
+| :--------------: | :-------------------------: | :-----------: | :------: |
+| **Khan Academy** | [*Intro to algorithms*][k1] |       -       |    25    |
+|   **Exercism**   |       [*Python*][e1]        | [![_][e]][e_] |   131    |
+|  **HackerRank**  | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
+|   **LeetCode**   |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
+|   **NeetCode**   |      [*NeetCode*][n1]       |     [^1]      |   150    |
+|  **CodeSignal**  | [*Interview Practice*][c1]  | [![_][c]][c_] |   110    |
+|   **Deep ML**    |      [*Problems*][ml1]      |       -       |    26    |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
+
+## Data Structures
+
+```mermaid
+graph
+    subgraph DS [Data Structures]
+
+    %% Linear Data Structures
+    subgraph LSD [Linear Data Structures]
+        LINKED_LIST
+        ARRAY
+        HASH_TABLE
+        HASH_TABLE -.- DICTIONARY
+        ARRAY -.- STACK
+        ARRAY -.- QUEUE
+        ARRAY -.- TENSOR
+        LINKED_LIST -.- STACK
+        LINKED_LIST -.- QUEUE
+    end
+        
+    %% Non-Linear Data Structures
+    subgraph NLSD [Non-Linear Data Structures]
+        TREE
+        GRAPH
+        SET
+        GRAPH -.- TREE
+        TREE -.- BINARY
+        BINARY -.- HEAP
+        HEAP -.- PRIORITY_QUEUE
+        TREE -.- TRIE
+    end
+
+    end
+  
+```
+
+## Algorithms
 
 <!-- LINKS -->
 
