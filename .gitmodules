@@ -2,15 +2,22 @@
 	path = coding/exercism
 	url = git@github.com:ofou/exercism.git
 	ignore = dirty
+	branch = main
+
 [submodule "coding/leetcode"]
 	path = coding/leetcode
 	url = git@github.com:ofou/leetcode.git
 	ignore = dirty
+	branch = main
+
 [submodule "coding/codesignal"]
 	path = coding/codesignal
 	url = git@github.com:ofou/codesignal.git
 	ignore = dirty
+	branch = main
+
 [submodule "coding/hackerrank"]
 	path = coding/hackerrank
 	url = git@github.com:ofou/hackerrank.git
 	ignore = dirty
+	branch = main
