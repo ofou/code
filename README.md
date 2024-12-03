@@ -50,7 +50,7 @@ So the first step will be doing the following exercises from these platforms:
 - [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a systematic program for excelling at interviews called 75.
   - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
-- [**CodeSignal**][c1]: Great selection of problems from companies past interviews. Nice UI and guided tracks. Some FAANGs use the platform to interview candidates.
+- [**Advent of Code**][c1]: This is a yearly event that takes place in December. It's a great way to practice coding problems and learn new algorithms.
 - [**Coding Interview Prep**][f1]: The Coding Interview Prep by freeCodeCamp contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics.
 
 Also consult [Visualgo] for visualizing data structures and algorithms through animation. Other great resources to consider are: [High Load], [The Euler Project] (free), and [Rosetta Code] (free).
@@ -59,59 +59,25 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 [Rosetta Code]: https://rosettacode.org/wiki/Rosetta_Code
 [High Load]: https://highload.fun
 
-|     Platform     |            Track            |     Time      | Problems |
-| :--------------: | :-------------------------: | :-----------: | :------: |
-| **Khan Academy** | [*Intro to algorithms*][k1] |       -       |    25    |
-|   **Exercism**   |       [*Python*][e1]        | [![_][e]][e_] |   131    |
-|  **HackerRank**  | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
-|   **LeetCode**   |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
-|   **NeetCode**   |      [*NeetCode*][n1]       |     [^1]      |   150    |
-|  **CodeSignal**  | [*Interview Practice*][c1]  | [![_][c]][c_] |   110    |
-|   **Deep ML**    |      [*Problems*][ml1]      |       -       |    26    |
+|      Platform      |            Track            |     Time      | Problems |
+| :----------------: | :-------------------------: | :-----------: | :------: |
+|  **Khan Academy**  | [*Intro to algorithms*][k1] |       -       |    25    |
+|    **Exercism**    |       [*Python*][e1]        | [![_][e]][e_] |   131    |
+|   **HackerRank**   | [*Interview Prep Kit*][h1]  | [![_][h]][h_] |   104    |
+|    **LeetCode**    |    [*75 Study Plan*][l1]    | [![_][l]][l_] |    75    |
+|    **NeetCode**    |      [*NeetCode*][n1]       |     [^1]      |   150    |
+| **Advent of Code** |       [*Yearly*][c1]        | [![_][c]][c_] |  25[^2]  |
+|    **Deep ML**     |      [*Problems*][ml1]      |       -       |    26    |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
-## Data Structures
+[^2]: 25 problems / year, but it runs from 2015 up to now. The goal is to solve all the problems.
 
-```mermaid
-graph
-    subgraph DS [Data Structures]
-
-    %% Linear Data Structures
-    subgraph LSD [Linear Data Structures]
-        LINKED_LIST
-        ARRAY
-        HASH_TABLE
-        HASH_TABLE -.- DICTIONARY
-        ARRAY -.- STACK
-        ARRAY -.- QUEUE
-        ARRAY -.- TENSOR
-        LINKED_LIST -.- STACK
-        LINKED_LIST -.- QUEUE
-    end
-        
-    %% Non-Linear Data Structures
-    subgraph NLSD [Non-Linear Data Structures]
-        TREE
-        GRAPH
-        SET
-        GRAPH -.- TREE
-        TREE -.- BINARY
-        BINARY -.- HEAP
-        HEAP -.- PRIORITY_QUEUE
-        TREE -.- TRIE
-    end
-
-    end
-  
-```
-
-## Algorithms
 
 <!-- LINKS -->
 
-[c]: https://wakatime.com/badge/github/ofou/codesignal.svg?style=social
-[c_]: https://wakatime.com/badge/github/ofou/codesignal
+[c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/a687b2dd-4067-470b-9c5a-0577a5518880.svg?style=social
+[c_]: https://wakatime.com/badge/github/ofou/aoc
 [e]: https://wakatime.com/badge/github/ofou/exercism.svg?style=social
 [e_]: https://wakatime.com/badge/github/ofou/exercism
 [h]: https://wakatime.com/badge/github/ofou/hackerrank.svg?style=social
@@ -120,7 +86,7 @@ graph
 [l_]: https://wakatime.com/badge/github/ofou/leetcode
 
 [ml1]: https://www.deep-ml.com
-[c1]: https://app.codesignal.com/interview-practice
+[c1]: https://adventofcode.com
 [e1]: https://exercism.org/tracks/python
 [h1]: https://www.hackerrank.com/interview/interview-preparation-kit
 [l1]: https://leetcode.com/study-plan/leetcode-75/
