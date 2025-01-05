@@ -50,8 +50,10 @@ So the first step will be doing the following exercises from these platforms:
 - [**HackerRank**][h1]: They have Preparation Kits ranging from [1-week], [1-month] to [3-months]. Companies such as Amazon use the platform to interview candidates.
 - [**LeetCode**][l1]: Popular coding platform, the place-to-go to prepare for technical interviews. They just released a systematic program for excelling at interviews called 75.
   - [**NeetCode**][n1]: This is a new coding website based on a LeetCode problems selection. The cool thing is that they have code walkthroughs for each problem on Youtube and solutions in many languages. Great to match with LeetCode 75.
-- [**Advent of Code**][c1]: This is a yearly event that takes place in December. It's a great way to practice coding problems and learn new algorithms.
+- [**Advent of Code**][c1]: This is a yearly event that takes place in December. It's a great way to practice coding problems in a fun game.
 - [**Coding Interview Prep**][f1]: The Coding Interview Prep by freeCodeCamp contains hundreds of coding challenges that test your knowledge of algorithms, data structures, and mathematics.
+- [**Deep-ML**][ml1]: This is an open-source machine learning challenge platform designed to help users improve their skills in algorithm development and AI applications.
+- [**Tensor Puzzles**][gpu1]: This is a collection of 21 tensor puzzles. Like chess puzzles these are not meant to simulate the complexity of a real program, but to practice in a simplified environment. Each puzzle asks you to reimplement one function in the NumPy standard library without magic.
 
 Also consult [Visualgo] for visualizing data structures and algorithms through animation. Other great resources to consider are: [High Load], [The Euler Project] (free), and [Rosetta Code] (free).
 
@@ -68,11 +70,11 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 |    **NeetCode**    |      [*NeetCode*][n1]       |     [^1]      |   150    |
 | **Advent of Code** |       [*Yearly*][c1]        | [![_][c]][c_] |  25[^2]  |
 |    **Deep ML**     |      [*Problems*][ml1]      |       -       |    26    |
+| **Tensor Puzzles** |      [*Problems*][gpu1]     |       -       |    21    |
 
 [^1]: This is based on LeetCode problems for time tracking and might be overlapping with the LeetCode 75 track.
 
 [^2]: 25 problems / year, but it runs from 2015 up to now. The goal is to solve all the problems.
-
 
 <!-- LINKS -->
 
@@ -86,6 +88,7 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 [l_]: https://wakatime.com/badge/github/ofou/leetcode
 
 [ml1]: https://www.deep-ml.com
+[gpu1]: https://github.com/srush/Tensor-Puzzles
 [c1]: https://adventofcode.com
 [e1]: https://exercism.org/tracks/python
 [h1]: https://www.hackerrank.com/interview/interview-preparation-kit
