@@ -107,3 +107,62 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 [docs]: https://github.com/Codecademy/docs
 [curriculum]: https://github.com/freeCodeCamp/freeCodeCamp
 [projects]: https://github.com/codecrafters-io/build-your-own-x
+
+## Guide to Data Structures and Algorithms
+
+Personally, what I did was to start brushing up on the basics of data structures and algorithms through easy reading [Grokking Algorithms] and [Grokking Data Structures]. Both are pretty updated books from last year, and I just wanted to get a bit more familiar with the ideas.
+
+Arrays seems like the most fundamental data structure, so the first thing you should be able to do it's to work with that.
+
+### Arrays
+
+There are two types of arrays: static and dynamic. Static arrays have a fixed size, which means the size must be defined at compile time and cannot be changed during runtime. Dynamic arrays, on the other hand, can grow and shrink in size as needed during program execution. Understanding the difference between these two types is crucial for efficient memory management and performance optimization.
+
+**Static Array in C:**
+
+```c
+#include <stdio.h>
+
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+    int i = 0;
+    while (i < 5) {
+        printf("%d ", arr[i]);
+        i++;
+    }
+    printf("\n");
+    return 0;
+}
+```
+
+Use Case: Static arrays are suitable when the number of elements is known in advance and does not change, such as storing the days of the week.
+
+**Dynamic Array in Python:**
+
+```python
+arr = [1, 2, 3, 4, 5]
+print(arr)
+arr.append(6)
+print(arr)
+```
+
+### Binary search
+
+![animation idea](/animations/binary_search.html)
+
+```python
+def binary_search(array, target):
+    low, high = 0, len(array) - 1
+    while low <= high:
+        mid = (low + high) // 2 # or low + (high - low) // 2
+        if array[mid] == target:
+            return mid
+        elif array[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
+```
+
+[Grokking Algorithms]: https://annas-archive.org/md5/6014af49a9c4c513b76f29b74a869e3f
+[Grokking Data Structures]: https://annas-archive.org/md5/8116130f95c8cfc0c010a5be29c75cf2
