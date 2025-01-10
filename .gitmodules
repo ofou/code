@@ -21,3 +21,9 @@
 	url = git@github.com:ofou/hackerrank.git
 	ignore = dirty
 	branch = main
+
+[submodule "coding/aoc"]
+	path = coding/aoc
+	url = git@github.com:ofou/aoc.git
+	ignore = dirty
+	branch = main
