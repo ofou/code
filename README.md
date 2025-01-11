@@ -128,7 +128,7 @@ Arrays seems like the most fundamental data structure, so the first thing you sh
 
 There are two types of arrays: static and dynamic. Static arrays have a fixed size, which means the size must be defined at compile time and cannot be changed during runtime. Dynamic arrays, on the other hand, can grow and shrink in size as needed during program execution. Understanding the difference between these two types is crucial for efficient memory management and performance optimization.
 
-[Dynamic Array](/data_structures/arrays/dynamic.py#L10-L17)
+<https://github.com/ofou/code/blob/308bf91ba503f963f50be0c88cc04e5da42f4252/data_structures/arrays/dynamic.py#L1-L273>
 
 Use Case: Static arrays are ideal when memory is constrained and the maximum size is known in advance, such as embedded systems or when implementing fixed-size buffers. The size limitation provides safety against buffer overflows.
 
