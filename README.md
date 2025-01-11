@@ -128,7 +128,7 @@ Arrays seems like the most fundamental data structure, so the first thing you sh
 
 There are two types of arrays: static and dynamic. Static arrays have a fixed size, which means the size must be defined at compile time and cannot be changed during runtime. Dynamic arrays, on the other hand, can grow and shrink in size as needed during program execution. Understanding the difference between these two types is crucial for efficient memory management and performance optimization.
 
-[DynamicArray class (lines 10-17)](/data_structures/arrays/dynamic.py#L10-L17)
+/data_structures/arrays/dynamic.py#L10-L17
 
 Use Case: Static arrays are ideal when memory is constrained and the maximum size is known in advance, such as embedded systems or when implementing fixed-size buffers. The size limitation provides safety against buffer overflows.
 
@@ -138,4 +138,4 @@ Use Case: Dynamic arrays are ideal when the size of the data is unknown or chang
 
 Binary search is a divide-and-conquer algorithm with O(log n) complexity that finds elements in sorted arrays by repeatedly halving the search interval. It's a fast and efficient way to search for elements in large datasets, first or last occurrence, or even the closest element to a target value.
 
-[Binary search](/algorithms/binary_search.py#L1-L20)
+https://github.com/ofou/code/blob/main/algorithms/binary_search.py#L1-L20
