@@ -138,4 +138,4 @@ Use Case: Dynamic arrays are ideal when the size of the data is unknown or chang
 
 Binary search is a divide-and-conquer algorithm with O(log n) complexity that finds elements in sorted arrays by repeatedly halving the search interval. It's a fast and efficient way to search for elements in large datasets, first or last occurrence, or even the closest element to a target value.
 
-[Binary Search](/algorithms/binary_search.py#L1-L20)
+<https://github.com/ofou/code/blob/e124e97c5c04ddbd6b53429f0cfe9f3c0ea471fa/algorithms/binary_search.py#L1-L20>
