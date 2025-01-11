@@ -76,6 +76,13 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 
 [^2]: 25 problems / year, but it runs from 2015 up to now. The goal is to solve all the problems.
 
+If you're into reading very technical documents —hardcore mode— you can check out the [Python docs], [C C23] Language Standard, and [CUDA] Programming Guide, or [CUDA Best Practices]. These resources are more advanced, but they're excellent for learning about the languages in depth, reimplementing some of the functions, and becoming very familiar with the core concepts from the very source.
+
+[C C23]: https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3220.pdf
+[CUDA]: https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf
+[CUDA Best Practices]: https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf
+[Python docs]: https://docs.python.org/
+
 <!-- LINKS -->
 
 [c]: https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9/project/a687b2dd-4067-470b-9c5a-0577a5518880.svg?style=social
@@ -112,57 +119,23 @@ Also consult [Visualgo] for visualizing data structures and algorithms through a
 
 Personally, what I did was to start brushing up on the basics of data structures and algorithms through easy reading [Grokking Algorithms] and [Grokking Data Structures]. Both are pretty updated books from last year, and I just wanted to get a bit more familiar with the ideas.
 
+[Grokking Algorithms]: https://annas-archive.org/md5/6014af49a9c4c513b76f29b74a869e3f
+[Grokking Data Structures]: https://annas-archive.org/md5/8116130f95c8cfc0c010a5be29c75cf2
+
 Arrays seems like the most fundamental data structure, so the first thing you should be able to do it's to work with that.
 
 ### Arrays
 
 There are two types of arrays: static and dynamic. Static arrays have a fixed size, which means the size must be defined at compile time and cannot be changed during runtime. Dynamic arrays, on the other hand, can grow and shrink in size as needed during program execution. Understanding the difference between these two types is crucial for efficient memory management and performance optimization.
 
-**Static Array in C:**
+[DynamicArray class (lines 10-17)](/data_structures/arrays/dynamic.py#L10-L17)
 
-```c
-#include <stdio.h>
+Use Case: Static arrays are ideal when memory is constrained and the maximum size is known in advance, such as embedded systems or when implementing fixed-size buffers. The size limitation provides safety against buffer overflows.
 
-int main() {
-    int arr[5] = {1, 2, 3, 4, 5};
-    int i = 0;
-    while (i < 5) {
-        printf("%d ", arr[i]);
-        i++;
-    }
-    printf("\n");
-    return 0;
-}
-```
-
-Use Case: Static arrays are suitable when the number of elements is known in advance and does not change, such as storing the days of the week.
-
-**Dynamic Array in Python:**
-
-```python
-arr = [1, 2, 3, 4, 5]
-print(arr)
-arr.append(6)
-print(arr)
-```
+Use Case: Dynamic arrays are ideal when the size of the data is unknown or changes frequently. This implementation shows how Python lists work under the hood, automatically resizing when capacity is reached.
 
 ### Binary search
 
-![animation idea](/animations/binary_search.html)
+Binary search is a divide-and-conquer algorithm with O(log n) complexity that finds elements in sorted arrays by repeatedly halving the search interval. It's a fast and efficient way to search for elements in large datasets, first or last occurrence, or even the closest element to a target value.
 
-```python
-def binary_search(array, target):
-    low, high = 0, len(array) - 1
-    while low <= high:
-        mid = (low + high) // 2 # or low + (high - low) // 2
-        if array[mid] == target:
-            return mid
-        elif array[mid] < target:
-            low = mid + 1
-        else:
-            high = mid - 1
-    return -1
-```
-
-[Grokking Algorithms]: https://annas-archive.org/md5/6014af49a9c4c513b76f29b74a869e3f
-[Grokking Data Structures]: https://annas-archive.org/md5/8116130f95c8cfc0c010a5be29c75cf2
+[Binary search](/algorithms/binary_search.py#L1-L20)
