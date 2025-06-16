@@ -12,7 +12,11 @@ This is my hands-on approach to *hacking* the Coding Interview:
 4. **Take notes, make videos, or in-depth tutorials**, teaching is one of the best ways to learn
 5. **Give back to the open source community**, helping projects is a great way to test your knowledge in the wild. Start with Exercism's [tracks], FreeCodeCamp's [curriculum], CodeCrafters's [projects], CodeAcademy's [docs], or even this repo. 🙂‍↔️
 
-Or just get started `git submodule update --init --recursive`
+Or just get started with: 
+
+```bash
+git clone --recurse-submodules git@github.com:ofou/code.git && (cd code && git submodule foreach --recursive git checkout main)c
+```
 
 <details>
 <summary>Optional: Enhance your learning abilities</summary>
