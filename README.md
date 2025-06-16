@@ -12,6 +12,8 @@ This is my hands-on approach to *hacking* the Coding Interview:
 4. **Take notes, make videos, or in-depth tutorials**, teaching is one of the best ways to learn
 5. **Give back to the open source community**, helping projects is a great way to test your knowledge in the wild. Start with Exercism's [tracks], FreeCodeCamp's [curriculum], CodeCrafters's [projects], CodeAcademy's [docs], or even this repo. 🙂‍↔️
 
+Or just get started `git submodule update --init --recursive`
+
 <details>
 <summary>Optional: Enhance your learning abilities</summary>
 
@@ -94,7 +96,7 @@ If you're into reading very technical documents —hardcore mode— you can chec
 [l]: https://wakatime.com/badge/github/ofou/leetcode.svg?style=social
 [l_]: https://wakatime.com/badge/github/ofou/leetcode
 
-[ml1]: https://www.deep-ml.com
+[ml1]: https://www.deep-ml.com/problems
 [gpu1]: https://github.com/srush/Tensor-Puzzles
 [c1]: https://adventofcode.com
 [e1]: https://exercism.org/tracks/python
